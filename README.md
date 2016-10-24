@@ -9,7 +9,14 @@ $ fucking apm install atom-typescript
 $ fucking apm install language-typescript
 ```
 
-Doing things
+One needs to run this to get the *TypeScript Phaser things*:
+
+```bash
+...
+$ fucking npm install typings
+$ fucking typings install github:photonstorm/phaser/typescript/typings.json -GD
+```
+
 ---
 
 When done doing *1337 such very haxing skills* in your `.ts` file, simply press F6 to build.
