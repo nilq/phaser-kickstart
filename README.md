@@ -1,4 +1,4 @@
-# phaser-kickstart
+# phaserkit
 A TypeScript Phaser template with neat things
 
 ---
